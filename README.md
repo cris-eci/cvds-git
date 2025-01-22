@@ -108,13 +108,21 @@ Los conflictos se arreglaron al dar a la opción <b>accept both changes </b>
 ![alt text](resources/image-29.png)
 
 ### 8.	Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](resources/image-30.png)
+![alt text](resources/image-31.png)
 
 ### 9.	Resuelvan el conflicto con IntelliJ si es posible
 
 Los conflictos se resolvieron en Visual Studio Code al igual que en el inciso anterior. 
-![alt text](image.png)
+![alt text](resources/image-30.png)
 
+## PARTE III (Trabajo de a parejas)
+### 1.	¿Hay una mejor forma de trabajar con git para no tener conflictos?
 
+### 2.	¿Qué es y como funciona el **Pull Request**?
+
+### 3.	Creen una rama cada uno y suban sus cambios
+
+  * Creación rama <b>Cristian</b>
+  Creamos y 
 
