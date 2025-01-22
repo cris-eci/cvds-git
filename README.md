@@ -149,6 +149,8 @@ Permite al equipo solicitar la revisión y aprobación de sus cambios antes de f
 ![alt text](image-7.png)
 
 
+![alt text](image-8.png)
+
 ## INTEGRANTES
 
 *ANDERSSON DAVID SÁNCHEZ MÉNDEZ*
