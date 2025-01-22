@@ -95,5 +95,11 @@ Y nos autenticamos
 ### 4.	El colaborador acepta la invitación al repositorio
 ![alt text](resources/image-26.png)
 
+
+### 5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
+![alt text](image-1.png)
+
 ### 6.  ¿Que sucedió?
 ![alt text](image.png)
+
+Al intentar hacer el push habían cambios diferentes y hubo conflictos.
