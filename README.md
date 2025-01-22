@@ -132,14 +132,21 @@ Permite al equipo solicitar la revisión y aprobación de sus cambios antes de f
   * Creación rama <b>Cristian</b>
   Creamos y nos movemos a una nueva rama con nombre <b>master</b> que tiene los cambios que habían en main. 
 
-    ![alt text](image.png)
+    ![alt text](resources/image-32.png)
 
   * Ahora creamos la rama en el repositorio remoto
 
-    ![alt text](image-1.png)
-    ![alt text](image-2.png)
+    ![alt text](resources/image-33.png)
+    ![alt text](resources/image-34.png)
     
  ### 4. Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master   
-![alt text](image-4.png)
-![alt text](image-3.png)
+![alt text](resources/image-35.png)
+![alt text](resources/image-36.png)
 
+![alt text](resources/image-39.png)
+![alt text](resources/image-40.png)
+
+### 5. Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github)
+
+![alt text](resources/image-37.png)
+![alt text](resources/image-38.png)
