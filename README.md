@@ -103,3 +103,6 @@ Y nos autenticamos
 ![alt text](resources/image-28.png)
 
 Al intentar hacer el push habían cambios diferentes y hubo conflictos.
+
+### 7. Resolver conflictos
+![alt text](resources/image-29.png)
