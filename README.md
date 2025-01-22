@@ -93,3 +93,4 @@ Y nos autenticamos
 ![alt text](resources/image-25.png)
 
 ### 4.	El colaborador acepta la invitación al repositorio
+![alt text](resources/image-26.png)
