@@ -119,7 +119,13 @@ Los conflictos se resolvieron en Visual Studio Code al igual que en el inciso an
 ## PARTE III (Trabajo de a parejas)
 ### 1.	¿Hay una mejor forma de trabajar con git para no tener conflictos?
 
+Si, esa forma consiste en no trabajar todo sobre la main, sino crear una rama nueva, y sobre esa hacer cambios, 
+luego cuando esté seguro que el proyecto está bien, entonces se hace el PR, 
+para subir y dejar todo en la rama principal (main); usando git flow.
+
+
 ### 2.	¿Qué es y como funciona el **Pull Request**?
+Permite al equipo solicitar la revisión y aprobación de sus cambios antes de fusionarlos en la rama principal (main).
 
 ### 3.	Creen una rama cada uno y suban sus cambios
 
@@ -137,6 +143,8 @@ Los conflictos se resolvieron en Visual Studio Code al igual que en el inciso an
 ![alt text](resources/image-35.png)
 ![alt text](resources/image-36.png)
 
+![alt text](resources/image-39.png)
+![alt text](resources/image-40.png)
 
 ### 5. Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github)
 
