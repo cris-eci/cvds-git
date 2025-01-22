@@ -130,5 +130,15 @@ Permite al equipo solicitar la revisión y aprobación de sus cambios antes de f
 ### 3.	Creen una rama cada uno y suban sus cambios
 
   * Creación rama <b>Cristian</b>
-  Creamos y 
+  Creamos y nos movemos a una nueva rama con nombre <b>master</b> que tiene los cambios que habían en main. 
+
+    ![alt text](image.png)
+
+  * Ahora creamos la rama en el repositorio remoto
+
+    ![alt text](image-1.png)
+    ![alt text](image-2.png)
+    
+ ### 4. Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master   
+
 
