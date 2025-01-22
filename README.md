@@ -38,6 +38,7 @@ La cuenta de GitHub ya la había creado y enlazado el semestre pasado con mi cue
 
     cambiamos el nombre de la rama
     de master a main
+
     ![alt text](resources/image-6.png)
 * Ahora enlazamos el repositorio local con el remoto. 
 
@@ -46,7 +47,9 @@ La cuenta de GitHub ya la había creado y enlazado el semestre pasado con mi cue
       git remote add origin https://github.com/cris-eci/cvds-git.git
     ```
     ![alt text](resources/image-8.png)
+
     Hacemos un fetch y un push para sincronizar. 
+
     ![alt text](resources/image-9.png)
 ### 7. Sube los cambios, teniendo en cuenta lo que averiguaste en el punto 3 Utiliza los siguientes comando en el directorio donde tienes tu proyecto, en este orden
 
@@ -59,8 +62,11 @@ La cuenta de GitHub ya la había creado y enlazado el semestre pasado con mi cue
 ![alt text](resources/image-10.png)
 
 Ahora hacemos un push 
+
 ![alt text](resources/image-12.png)
+
 Y nos autenticamos
+
 ![alt text](resources/image-11.png)
 
 ![alt text](resources/image-13.png)
