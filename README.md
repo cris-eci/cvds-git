@@ -93,3 +93,6 @@ Y nos autenticamos
 ![alt text](resources/image-25.png)
 
 ### 4.	El colaborador acepta la invitación al repositorio
+
+
+### 5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
