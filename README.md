@@ -76,3 +76,20 @@ Y nos autenticamos
 
 ### 9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
 ![alt text](resources/image-20.png)
+
+## PARTE II (Trabajo en parejas)
+
+### 1.	Se escogen los roles para trabajar en equipo, una persona debe escoger ser "Owner" o Propietario del repositorio y la otra "Collaborator" o Colaborador en el repositorio.
+
+* Andersson David Sanchez Mendez - <b>Colllaborator</b>
+* Cristian Santiago Pedraza Rodriguez -  <b>Ownner</b>
+
+### 2.	El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
+
+![alt text](resources/image-24.png)
+![alt text](resources/image-23.png)
+
+### 3.	El owner le comparte la url via Teams al colaborador
+![alt text](resources/image-25.png)
+
+### 4.	El colaborador acepta la invitación al repositorio
