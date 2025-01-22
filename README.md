@@ -97,9 +97,9 @@ Y nos autenticamos
 
 
 ### 5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
-![alt text](image-1.png)
+![alt text](resources/image-27.png)
 
 ### 6.  ¿Que sucedió?
-![alt text](image.png)
+![alt text](resources/image-28.png)
 
 Al intentar hacer el push habían cambios diferentes y hubo conflictos.
