@@ -149,16 +149,13 @@ Permite al equipo solicitar la revisión y aprobación de sus cambios antes de f
     ![alt text](resources/image-34.png)
     
  ### 4. Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master   
-![alt text](image-4.png)  
-![alt text](image-3.png)
+
+![alt text](resources/image-42.png)
+![alt text](resources/image-43.png)
+![alt text](resources/image-44.png)
 
 
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
-
-
-![alt text](image-8.png)
+![alt text](resources/image-45.png)
 
 
 ![alt text](resources/image-35.png)
@@ -171,3 +168,6 @@ Permite al equipo solicitar la revisión y aprobación de sus cambios antes de f
 
 ![alt text](resources/image-37.png)
 ![alt text](resources/image-38.png)
+
+Ya se hizo el pull request y se necesita la aprobación tras colocar la regla:
+![alt text](resources/image-41.png)
