@@ -150,3 +150,6 @@ Permite al equipo solicitar la revisión y aprobación de sus cambios antes de f
 
 ![alt text](resources/image-37.png)
 ![alt text](resources/image-38.png)
+
+Ya se hizo el pull request y se necesita la aprobación tras colocar la regla:
+![alt text](resources/image-41.png)
