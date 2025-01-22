@@ -64,3 +64,9 @@ Y nos autenticamos
 ![alt text](resources/image-11.png)
 
 ![alt text](resources/image-13.png)
+
+### 8. Configura el correo en git local de manera correcta
+![alt text](resources/image-21.png)
+
+### 9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
+![alt text](resources/image-20.png)
