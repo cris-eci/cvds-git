@@ -105,5 +105,11 @@ Y nos autenticamos
 Al intentar hacer el push habían cambios diferentes y hubo conflictos. Los conflictos se arreglaron al dar a la opción <b>accept both changes </b>
 
 ### 8.	Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
-   
+![alt text](image.png)
+![alt text](image-1.png)
+
 ### 9.	Resuelvan el conflicto con IntelliJ si es posible,  [Resolver conflictos en IntelliJ]( https://www.jetbrains.com/help/idea/resolving-conflicts.html#distributed-version-control-systems)
+
+
+
+
