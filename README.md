@@ -140,5 +140,6 @@ Permite al equipo solicitar la revisión y aprobación de sus cambios antes de f
     ![alt text](image-2.png)
     
  ### 4. Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master   
-
+![alt text](image-4.png)
+![alt text](image-3.png)
 
